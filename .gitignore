@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs / Temp
+*.log
+*.tmp
+*.swp
+
+# Reports / Exports
+*.csv
+*.xlsx
+*.pdf
+*.pptx
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
