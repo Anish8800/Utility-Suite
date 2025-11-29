@@ -1,0 +1,29 @@
+{
+  "zones": [
+    {
+      "id": "airport",
+      "type": "circle",
+      "name": "Airport Zone",
+      "center": { "lat": 18.5800, "lon": 73.9200 },
+      "radius_m": 1500
+    },
+    {
+      "id": "downtown",
+      "type": "polygon",
+      "name": "Downtown Core",
+      "points": [
+        { "lat": 18.5203, "lon": 73.8567 },
+        { "lat": 18.5230, "lon": 73.8700 },
+        { "lat": 18.5150, "lon": 73.8750 },
+        { "lat": 18.5100, "lon": 73.8600 }
+      ]
+    },
+    {
+      "id": "mall",
+      "type": "circle",
+      "name": "Phoenix Mall Area",
+      "center": { "lat": 18.5630, "lon": 73.9168 },
+      "radius_m": 800
+    }
+  ]
+}
