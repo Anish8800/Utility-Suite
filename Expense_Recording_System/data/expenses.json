@@ -1,0 +1,90 @@
+[
+  {
+    "id": "exp_56152458ec",
+    "amount": 300.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_entertainment",
+    "description": "Movie Night",
+    "recurring": false
+  },
+  {
+    "id": "exp_b365579c56",
+    "amount": 150.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_rent",
+    "description": "House Rent",
+    "recurring": false
+  },
+  {
+    "id": "exp_8981acfbbc",
+    "amount": 250.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_entertainment",
+    "description": "Movie night",
+    "recurring": false
+  },
+  {
+    "id": "exp_7ea812df46",
+    "amount": 200.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_groceries",
+    "description": "Grocery Shopping",
+    "recurring": false
+  },
+  {
+    "id": "exp_2f6a45ef8d",
+    "amount": 220.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_health",
+    "description": "Medicines",
+    "recurring": false
+  },
+  {
+    "id": "exp_6892c38850",
+    "amount": 60.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_other",
+    "description": "Coffee",
+    "recurring": false
+  },
+  {
+    "id": "exp_a003c63714",
+    "amount": 350.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_restaurant",
+    "description": "Dinner",
+    "recurring": false
+  },
+  {
+    "id": "exp_9c049762ea",
+    "amount": 200.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_transport",
+    "description": "Transport",
+    "recurring": false
+  },
+  {
+    "id": "exp_29b8340623",
+    "amount": 500.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_transport",
+    "description": "Transport",
+    "recurring": false
+  },
+  {
+    "id": "exp_94ddd516df",
+    "amount": 400.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_utilities",
+    "description": "Electricity bill",
+    "recurring": false
+  },
+  {
+    "id": "exp_432cc3e86d",
+    "amount": 300.0,
+    "date": "2025-11-26T00:00:00",
+    "category_id": "cat_4933a628",
+    "description": "Medicines",
+    "recurring": false
+  }
+]
